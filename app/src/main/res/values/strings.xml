@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FireTest</string>
+    <string name="request_client_id">820122465218-av0t77b34uvv4cttqe7c3mv02f566thk.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">158644398145248</string>
+    <string name="fb_login_protocol_scheme">fb158644398145248</string>
+</resources>
